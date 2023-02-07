@@ -1,6 +1,6 @@
 const NewOrderPage = () => {
   return (
-    <div>NewOrderPage</div>
+    <h1>NewOrderPage</h1>
   )
 }
 export default NewOrderPage
